@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 420px;
+  min-height: 100vh;
+
+  background-color: #242424;
+
+}
+button {
+  border: 1px solid white;
+  width:5em;
+  height:5em;
+  color: rgba(255, 255, 255, 0.87);
+  font-size:2em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+}
